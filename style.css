@@ -1,0 +1,214 @@
+*{
+     padding: 0px;
+     margin: 0px;
+}
+footer{
+    background-color: rgb(240, 243, 243);
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.first{
+    display: flex; 
+    padding-left: 250px; 
+    /* justify-content: space-evenly; */
+    
+}
+.list1{
+    list-style-type: none;
+}
+.list2{
+    list-style-type: none;
+    padding-left: 30px;
+}
+.list3{
+    list-style-type: none;
+    padding-left: 30px;
+}
+.list4{
+    list-style-type: none;
+    padding-left: 30px;
+}
+.two{
+    /* text-align:left; */
+    padding-left: 240px;
+}
+.three{
+    display: flex;
+    padding-left: 240px;
+}
+#copy{
+    padding-left: 500px;
+}
+.list5{
+    list-style-type: none;
+}
+.four{
+    display: flex;
+    padding-left: 230px;
+}
+.list6{
+    list-style-type: none;
+    margin-top: 110px;
+    padding-left: 400px;
+}
+#tele{
+    color: rgb(1, 1, 253);
+}
+#co{
+    text-decoration:;
+    color: blue;
+}
+#h{
+    width: 85%;
+    /* margin-top: 15px; */
+}
+#r{
+    width: 50%;
+    /* padding-right: 110px; */
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.list7{
+    display: flex;
+    list-style-type: none;
+    padding-top: 10px;
+}
+.list8{
+    display: flex;
+    list-style-type: none;
+}
+input{
+    height: 30px;
+    width:500px
+    
+}
+#pro{
+    padding-right: 30px;
+    /* padding-left: 20px; */
+
+}
+#wish{
+    padding-right: 30px;
+    /* padding-left: 20px; */
+
+}
+#bag{
+    padding-right: 30px;
+    /* padding-left: 20px; */
+
+}
+#ne{
+    color: red;
+}
+#men{
+    padding-left: 35px;
+
+}
+#women{
+    padding-left: 35px;
+
+}
+#kid{
+    padding-left: 35px;
+
+}
+#home{
+    padding-left: 35px;
+
+}
+#beu{
+    padding-left: 35px;
+
+}
+#stu{
+    padding-left: 35px;
+
+}
+header{
+    padding-top: 20px;
+    background-color:rgb(253, 253, 253);
+    position:fixed;
+    width: 1520px;
+
+}
+#myn{
+    margin-bottom: 20px;
+}
+.main1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#sh1{
+    list-style-type: none;
+
+
+}
+#sh2{
+    list-style-type: none;
+
+}
+#sh3{
+    list-style-type: none;
+
+}
+#sh4{
+    list-style-type: none;
+
+}
+#sh5{
+    list-style-type: none;
+
+}
+#sh6{
+    list-style-type: none;
+
+}
+#rup{
+    text-decoration: line-through;
+}
+#medal{
+    padding-left: 20px;
+    color: rgb(79, 77, 77);
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+main{
+    padding-top: 85px;
+    margin-bottom: 20px;
+}
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+}
+#shi1{
+    list-style-type: none;
+}
+#shi2{
+    list-style-type: none;
+}
+#shi3{
+    list-style-type: none;
+}
+#shi4{
+    list-style-type: none;
+}
+#shi5{
+    list-style-type: none;
+}
+#shi6{
+    list-style-type: none;
+
+}
+#formal{
+    padding-top: 10px;
+}
+#make{
+    margin-bottom: 30px;
+}
